@@ -1,0 +1,358 @@
+#drag: 0
+
+type: controlled
+    size: 40
+    x: 0
+    y: 0
+#add#
+
+type: floater
+  size: 49
+  x: -425
+  y:-63
+  velX: 4
+  velY: 1
+#add#
+type: floater
+  size: 45
+  x: -350
+  y:-253
+  velX: -2
+  velY: -2
+#add#
+type: floater
+  size: 24
+  x: -165
+  y:311
+  velX: -2
+  velY: 0
+#add#
+type: floater
+  size: 27
+  x: 397
+  y:23
+  velX: -3
+  velY: 4
+#add#
+type: floater
+  size: 22
+  x: -166
+  y:13
+  velX: 0
+  velY: 3
+#add#
+type: floater
+  size: 48
+  x: -225
+  y:40
+  velX: -1
+  velY: 0
+#add#
+type: floater
+  size: 47
+  x: 138
+  y:-58
+  velX: 2
+  velY: -3
+#add#
+type: floater
+  size: 45
+  x: -205
+  y:138
+  velX: -1
+  velY: 2
+#add#
+type: floater
+  size: 47
+  x: -162
+  y:62
+  velX: -4
+  velY: 1
+#add#
+type: floater
+  size: 13
+  x: -21
+  y:-196
+  velX: -4
+  velY: -3
+#add#
+type: floater
+  size: 25
+  x: 32
+  y:403
+  velX: -1
+  velY: 3
+#add#
+type: floater
+  size: 9
+  x: -147
+  y:173
+  velX: 1
+  velY: -1
+#add#
+type: floater
+  size: 24
+  x: 73
+  y:179
+  velX: 1
+  velY: -3
+#add#
+type: floater
+  size: 27
+  x: 71
+  y:-144
+  velX: -1
+  velY: 3
+#add#
+type: floater
+  size: 42
+  x: 259
+  y:41
+  velX: 0
+  velY: -2
+#add#
+type: floater
+  size: 47
+  x: 50
+  y:180
+  velX: 0
+  velY: 1
+#add#
+type: floater
+  size: 11
+  x: 255
+  y:140
+  velX: 0
+  velY: 1
+#add#
+type: floater
+  size: 42
+  x: 258
+  y:-116
+  velX: -4
+  velY: -2
+#add#
+type: floater
+  size: 13
+  x: 167
+  y:85
+  velX: 1
+  velY: 0
+#add#
+type: floater
+  size: 12
+  x: 87
+  y:-156
+  velX: 2
+  velY: -4
+#add#
+type: floater
+  size: 37
+  x: 99
+  y:-48
+  velX: 3
+  velY: -4
+#add#
+type: floater
+  size: 30
+  x: 294
+  y:-210
+  velX: -4
+  velY: 3
+#add#
+type: floater
+  size: 11
+  x: 150
+  y:-397
+  velX: -2
+  velY: -2
+#add#
+type: floater
+  size: 48
+  x: -191
+  y:-163
+  velX: -4
+  velY: -3
+#add#
+type: floater
+  size: 18
+  x: 281
+  y:-235
+  velX: -4
+  velY: -4
+#add#
+type: floater
+  size: 27
+  x: 311
+  y:318
+  velX: -2
+  velY: -1
+#add#
+type: floater
+  size: 47
+  x: 419
+  y:-79
+  velX: -2
+  velY: -2
+#add#
+type: floater
+  size: 12
+  x: 400
+  y:-43
+  velX: -1
+  velY: 4
+#add#
+type: floater
+  size: 21
+  x: -88
+  y:200
+  velX: 0
+  velY: 1
+#add#
+type: floater
+  size: 41
+  x: -94
+  y:-418
+  velX: -1
+  velY: 3
+#add#
+type: floater
+  size: 39
+  x: -18
+  y:-109
+  velX: 2
+  velY: -3
+#add#
+type: floater
+  size: 45
+  x: -47
+  y:56
+  velX: -1
+  velY: -3
+#add#
+type: floater
+  size: 16
+  x: -405
+  y:-124
+  velX: 4
+  velY: 4
+#add#
+type: floater
+  size: 31
+  x: -399
+  y:122
+  velX: 0
+  velY: -3
+#add#
+type: floater
+  size: 35
+  x: 267
+  y:325
+  velX: 2
+  velY: 4
+#add#
+type: floater
+  size: 27
+  x: -316
+  y:87
+  velX: 4
+  velY: -2
+#add#
+type: floater
+  size: 48
+  x: -273
+  y:222
+  velX: 4
+  velY: -1
+#add#
+type: floater
+  size: 7
+  x: -149
+  y:-284
+  velX: 3
+  velY: -1
+#add#
+type: floater
+  size: 30
+  x: 137
+  y:346
+  velX: -2
+  velY: 0
+#add#
+type: floater
+  size: 22
+  x: 116
+  y:-346
+  velX: 0
+  velY: 1
+#add#
+type: floater
+  size: 7
+  x: -4
+  y:-302
+  velX: -3
+  velY: 3
+#add#
+type: floater
+  size: 14
+  x: 94
+  y:176
+  velX: 0
+  velY: 0
+#add#
+type: floater
+  size: 40
+  x: -233
+  y:-318
+  velX: -1
+  velY: 3
+#add#
+type: floater
+  size: 35
+  x: -399
+  y:138
+  velX: 4
+  velY: -2
+#add#
+type: floater
+  size: 6
+  x: 129
+  y:58
+  velX: 4
+  velY: -2
+#add#
+type: floater
+  size: 25
+  x: -357
+  y:-168
+  velX: 0
+  velY: 3
+#add#
+type: floater
+  size: 16
+  x: 447
+  y:2
+  velX: 4
+  velY: -2
+#add#
+type: floater
+  size: 24
+  x: 101
+  y:222
+  velX: -3
+  velY: 0
+#add#
+type: floater
+  size: 35
+  x: 61
+  y:305
+  velX: -1
+  velY: 4
+#add#
+type: floater
+  size: 44
+  x: 322
+  y:-143
+  velX: 4
+  velY: 2
+#add#

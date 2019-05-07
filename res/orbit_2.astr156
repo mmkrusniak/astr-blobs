@@ -1,0 +1,369 @@
+#annihilate#
+
+type: attractor
+  size: 40
+  x: -30
+  y: 0
+  velY: -2
+  strength: 0.07
+  fixed: false
+#add#
+type: attractor
+  size: 40
+  x: 30
+  y: 0
+  velY: 2
+  strength: 0.07
+  fixed: false
+#add#
+
+type: normal
+  size: 10
+  x: 149
+  y:-291
+  velX: 2.910000
+  velY: 1.490000
+#add#
+type: normal
+  size: 11
+  x: -134
+  y:265
+  velX: -2.650000
+  velY: -1.340000
+#add#
+type: normal
+  size: 8
+  x: 163
+  y:-134
+  velX: 1.340000
+  velY: 1.630000
+#add#
+type: controlled
+  size: 20
+  x: 147
+  y:-367
+  velX: 3.670000
+  velY: 1.470000
+#add#
+type: normal
+  size: 10
+  x: -259
+  y:-122
+  velX: 1.220000
+  velY: -2.590000
+#add#
+type: normal
+  size: 6
+  x: 120
+  y:-174
+  velX: 1.740000
+  velY: 1.200000
+#add#
+type: normal
+  size: 15
+  x: 85
+  y:317
+  velX: -3.170000
+  velY: 0.850000
+#add#
+type: normal
+  size: 14
+  x: 49
+  y:-278
+  velX: 2.780000
+  velY: 0.490000
+#add#
+type: normal
+  size: 6
+  x: -151
+  y:323
+  velX: -3.230000
+  velY: -1.510000
+#add#
+type: normal
+  size: 14
+  x: 48
+  y:430
+  velX: -4.300000
+  velY: 0.480000
+#add#
+type: normal
+  size: 13
+  x: -266
+  y:-282
+  velX: 2.820000
+  velY: -2.660000
+#add#
+type: normal
+  size: 5
+  x: -159
+  y:136
+  velX: -1.360000
+  velY: -1.590000
+#add#
+type: normal
+  size: 7
+  x: 66
+  y:415
+  velX: -4.150000
+  velY: 0.660000
+#add#
+type: normal
+  size: 13
+  x: 434
+  y:39
+  velX: -0.390000
+  velY: 4.340000
+#add#
+type: normal
+  size: 7
+  x: -393
+  y:111
+  velX: -1.110000
+  velY: -3.930000
+#add#
+type: normal
+  size: 9
+  x: -252
+  y:-46
+  velX: 0.460000
+  velY: -2.520000
+#add#
+type: normal
+  size: 6
+  x: -243
+  y:314
+  velX: -3.140000
+  velY: -2.430000
+#add#
+type: normal
+  size: 7
+  x: -90
+  y:-179
+  velX: 1.790000
+  velY: -0.900000
+#add#
+type: normal
+  size: 7
+  x: 60
+  y:413
+  velX: -4.130000
+  velY: 0.600000
+#add#
+type: normal
+  size: 6
+  x: -301
+  y:231
+  velX: -2.310000
+  velY: -3.010000
+#add#
+type: normal
+  size: 8
+  x: -277
+  y:138
+  velX: -1.380000
+  velY: -2.770000
+#add#
+type: normal
+  size: 12
+  x: -216
+  y:-80
+  velX: 0.800000
+  velY: -2.160000
+#add#
+type: normal
+  size: 10
+  x: 183
+  y:273
+  velX: -2.730000
+  velY: 1.830000
+#add#
+type: normal
+  size: 10
+  x: -274
+  y:146
+  velX: -1.460000
+  velY: -2.740000
+#add#
+type: normal
+  size: 5
+  x: 81
+  y:320
+  velX: -3.200000
+  velY: 0.810000
+#add#
+type: normal
+  size: 13
+  x: 346
+  y:249
+  velX: -2.490000
+  velY: 3.460000
+#add#
+type: normal
+  size: 12
+  x: -160
+  y:-294
+  velX: 2.940000
+  velY: -1.600000
+#add#
+type: normal
+  size: 11
+  x: 171
+  y:312
+  velX: -3.120000
+  velY: 1.710000
+#add#
+type: normal
+  size: 13
+  x: 404
+  y:-119
+  velX: 1.190000
+  velY: 4.040000
+#add#
+type: normal
+  size: 10
+  x: -226
+  y:345
+  velX: -3.450000
+  velY: -2.260000
+#add#
+type: normal
+  size: 14
+  x: 199
+  y:71
+  velX: -0.710000
+  velY: 1.990000
+#add#
+type: normal
+  size: 13
+  x: 263
+  y:-168
+  velX: 1.680000
+  velY: 2.630000
+#add#
+type: normal
+  size: 12
+  x: 160
+  y:-333
+  velX: 3.330000
+  velY: 1.600000
+#add#
+type: normal
+  size: 8
+  x: 207
+  y:274
+  velX: -2.740000
+  velY: 2.070000
+#add#
+type: normal
+  size: 8
+  x: 241
+  y:-38
+  velX: 0.380000
+  velY: 2.410000
+#add#
+type: normal
+  size: 5
+  x: 243
+  y:-59
+  velX: 0.590000
+  velY: 2.430000
+#add#
+type: normal
+  size: 14
+  x: 247
+  y:332
+  velX: -3.320000
+  velY: 2.470000
+#add#
+type: normal
+  size: 9
+  x: 327
+  y:27
+  velX: -0.270000
+  velY: 3.270000
+#add#
+type: normal
+  size: 11
+  x: -189
+  y:396
+  velX: -3.960000
+  velY: -1.890000
+#add#
+type: normal
+  size: 7
+  x: 353
+  y:44
+  velX: -0.440000
+  velY: 3.530000
+#add#
+type: normal
+  size: 14
+  x: -303
+  y:-235
+  velX: 2.350000
+  velY: -3.030000
+#add#
+type: normal
+  size: 12
+  x: 413
+  y:-13
+  velX: 0.130000
+  velY: 4.130000
+#add#
+type: normal
+  size: 14
+  x: -317
+  y:155
+  velX: -1.550000
+  velY: -3.170000
+#add#
+type: normal
+  size: 5
+  x: 119
+  y:-308
+  velX: 3.080000
+  velY: 1.190000
+#add#
+type: normal
+  size: 9
+  x: -406
+  y:-160
+  velX: 1.600000
+  velY: -4.060000
+#add#
+type: normal
+  size: 5
+  x: 5
+  y:-367
+  velX: 3.670000
+  velY: 0.050000
+#add#
+type: normal
+  size: 9
+  x: 266
+  y:253
+  velX: -2.530000
+  velY: 2.660000
+#add#
+type: normal
+  size: 11
+  x: 301
+  y:333
+  velX: -3.330000
+  velY: 3.010000
+#add#
+type: normal
+  size: 9
+  x: 296
+  y:264
+  velX: -2.640000
+  velY: 2.960000
+#add#
+type: normal
+  size: 7
+  x: -39
+  y:378
+  velX: -3.780000
+  velY: -0.390000
+#add#

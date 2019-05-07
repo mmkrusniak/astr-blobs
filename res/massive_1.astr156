@@ -1,0 +1,3511 @@
+#width: 10000
+#annihilate#
+
+type: attractor
+  size: 800
+  x: 0
+  y: 0
+  strength: 0.1
+  fixed: true
+#add#
+
+type: normal
+  size: 288
+  x: -880
+  y:425
+  velX: -4.250000
+  velY: -8.800000
+#add#
+type: controlled
+  size: 257
+  x: 1340
+  y:-2413
+  velX: 24.130000
+  velY: 13.400000
+#add#
+type: normal
+  size: 133
+  x: -719
+  y:-3844
+  velX: 38.440000
+  velY: -7.190000
+#add#
+type: normal
+  size: 90
+  x: -3813
+  y:-2075
+  velX: 20.750000
+  velY: -38.130000
+#add#
+type: normal
+  size: 121
+  x: -3549
+  y:1694
+  velX: -16.940000
+  velY: -35.490000
+#add#
+type: normal
+  size: 276
+  x: 1624
+  y:2212
+  velX: -22.120000
+  velY: 16.240000
+#add#
+type: normal
+  size: 267
+  x: -1828
+  y:156
+  velX: -1.560000
+  velY: -18.280000
+#add#
+type: normal
+  size: 65
+  x: -1157
+  y:-4307
+  velX: 43.070000
+  velY: -11.570000
+#add#
+type: normal
+  size: 238
+  x: 2322
+  y:-2796
+  velX: 27.960000
+  velY: 23.220000
+#add#
+type: normal
+  size: 86
+  x: 342
+  y:3178
+  velX: -31.780000
+  velY: 3.420000
+#add#
+type: normal
+  size: 43
+  x: -2413
+  y:390
+  velX: -3.900000
+  velY: -24.130000
+#add#
+type: normal
+  size: 210
+  x: 3230
+  y:-2866
+  velX: 28.660000
+  velY: 32.300000
+#add#
+type: normal
+  size: 199
+  x: 1011
+  y:-2602
+  velX: 26.020000
+  velY: 10.110000
+#add#
+type: normal
+  size: 241
+  x: 424
+  y:3450
+  velX: -34.500000
+  velY: 4.240000
+#add#
+type: normal
+  size: 81
+  x: 3882
+  y:-1355
+  velX: 13.550000
+  velY: 38.820000
+#add#
+type: normal
+  size: 20
+  x: 1098
+  y:-2667
+  velX: 26.670000
+  velY: 10.980000
+#add#
+type: normal
+  size: 27
+  x: -1132
+  y:1620
+  velX: -16.200000
+  velY: -11.320000
+#add#
+type: normal
+  size: 205
+  x: 130
+  y:-2078
+  velX: 20.780000
+  velY: 1.300000
+#add#
+type: normal
+  size: 130
+  x: -328
+  y:1634
+  velX: -16.340000
+  velY: -3.280000
+#add#
+type: normal
+  size: 174
+  x: -1204
+  y:-1960
+  velX: 19.600000
+  velY: -12.040000
+#add#
+type: normal
+  size: 176
+  x: -454
+  y:2968
+  velX: -29.680000
+  velY: -4.540000
+#add#
+type: normal
+  size: 114
+  x: 111
+  y:-2961
+  velX: 29.610000
+  velY: 1.110000
+#add#
+type: normal
+  size: 6
+  x: 512
+  y:1554
+  velX: -15.540000
+  velY: 5.120000
+#add#
+type: normal
+  size: 212
+  x: -2379
+  y:-2592
+  velX: 25.920000
+  velY: -23.790000
+#add#
+type: normal
+  size: 19
+  x: -67
+  y:2020
+  velX: -20.200000
+  velY: -0.670000
+#add#
+type: normal
+  size: 191
+  x: 2080
+  y:1762
+  velX: -17.620000
+  velY: 20.800000
+#add#
+type: normal
+  size: 6
+  x: -2495
+  y:-2116
+  velX: 21.160000
+  velY: -24.950000
+#add#
+type: normal
+  size: 175
+  x: -53
+  y:3114
+  velX: -31.140000
+  velY: -0.530000
+#add#
+type: normal
+  size: 285
+  x: 3347
+  y:-1910
+  velX: 19.100000
+  velY: 33.470000
+#add#
+type: normal
+  size: 192
+  x: 1481
+  y:1145
+  velX: -11.450000
+  velY: 14.810000
+#add#
+type: normal
+  size: 35
+  x: 1822
+  y:-469
+  velX: 4.690000
+  velY: 18.220000
+#add#
+type: normal
+  size: 232
+  x: 1858
+  y:1835
+  velX: -18.350000
+  velY: 18.580000
+#add#
+type: normal
+  size: 295
+  x: -2333
+  y:1193
+  velX: -11.930000
+  velY: -23.330000
+#add#
+type: normal
+  size: 86
+  x: -1899
+  y:-2342
+  velX: 23.420000
+  velY: -18.990000
+#add#
+type: normal
+  size: 160
+  x: -3128
+  y:1488
+  velX: -14.880000
+  velY: -31.280000
+#add#
+type: normal
+  size: 228
+  x: -2308
+  y:-3393
+  velX: 33.930000
+  velY: -23.080000
+#add#
+type: normal
+  size: 55
+  x: -1493
+  y:536
+  velX: -5.360000
+  velY: -14.930000
+#add#
+type: normal
+  size: 9
+  x: 2342
+  y:-1386
+  velX: 13.860000
+  velY: 23.420000
+#add#
+type: normal
+  size: 96
+  x: -217
+  y:-2598
+  velX: 25.980000
+  velY: -2.170000
+#add#
+type: normal
+  size: 81
+  x: -640
+  y:-1061
+  velX: 10.610000
+  velY: -6.400000
+#add#
+type: normal
+  size: 292
+  x: 1561
+  y:469
+  velX: -4.690000
+  velY: 15.610000
+#add#
+type: normal
+  size: 276
+  x: -2401
+  y:-292
+  velX: 2.920000
+  velY: -24.010000
+#add#
+type: normal
+  size: 154
+  x: 2265
+  y:-676
+  velX: 6.760000
+  velY: 22.650000
+#add#
+type: normal
+  size: 204
+  x: -526
+  y:2174
+  velX: -21.740000
+  velY: -5.260000
+#add#
+type: normal
+  size: 35
+  x: -2475
+  y:3426
+  velX: -34.260000
+  velY: -24.750000
+#add#
+type: normal
+  size: 122
+  x: 2725
+  y:-405
+  velX: 4.050000
+  velY: 27.250000
+#add#
+type: normal
+  size: 291
+  x: -4188
+  y:1332
+  velX: -13.320000
+  velY: -41.880000
+#add#
+type: normal
+  size: 290
+  x: -804
+  y:4309
+  velX: -43.090000
+  velY: -8.040000
+#add#
+type: normal
+  size: 163
+  x: -1279
+  y:-1042
+  velX: 10.420000
+  velY: -12.790000
+#add#
+type: normal
+  size: 40
+  x: 526
+  y:913
+  velX: -9.130000
+  velY: 5.260000
+#add#
+type: normal
+  size: 198
+  x: -2242
+  y:-3590
+  velX: 35.900000
+  velY: -22.420000
+#add#
+type: normal
+  size: 273
+  x: -351
+  y:-1858
+  velX: 18.580000
+  velY: -3.510000
+#add#
+type: normal
+  size: 61
+  x: -984
+  y:-783
+  velX: 7.830000
+  velY: -9.840000
+#add#
+type: normal
+  size: 127
+  x: -687
+  y:4317
+  velX: -43.170000
+  velY: -6.870000
+#add#
+type: normal
+  size: 237
+  x: 2445
+  y:-1806
+  velX: 18.060000
+  velY: 24.450000
+#add#
+type: normal
+  size: 82
+  x: 3930
+  y:410
+  velX: -4.100000
+  velY: 39.300000
+#add#
+type: normal
+  size: 11
+  x: -190
+  y:-4172
+  velX: 41.720000
+  velY: -1.900000
+#add#
+type: normal
+  size: 254
+  x: 1873
+  y:-4088
+  velX: 40.880000
+  velY: 18.730000
+#add#
+type: normal
+  size: 222
+  x: -26
+  y:3846
+  velX: -38.460000
+  velY: -0.260000
+#add#
+type: normal
+  size: 178
+  x: 3673
+  y:269
+  velX: -2.690000
+  velY: 36.730000
+#add#
+type: normal
+  size: 87
+  x: 2609
+  y:3334
+  velX: -33.340000
+  velY: 26.090000
+#add#
+type: normal
+  size: 145
+  x: 1944
+  y:278
+  velX: -2.780000
+  velY: 19.440000
+#add#
+type: normal
+  size: 12
+  x: -3591
+  y:2515
+  velX: -25.150000
+  velY: -35.910000
+#add#
+type: normal
+  size: 66
+  x: 1740
+  y:2298
+  velX: -22.980000
+  velY: 17.400000
+#add#
+type: normal
+  size: 27
+  x: 3652
+  y:-1139
+  velX: 11.390000
+  velY: 36.520000
+#add#
+type: normal
+  size: 245
+  x: -1797
+  y:2740
+  velX: -27.400000
+  velY: -17.970000
+#add#
+type: normal
+  size: 262
+  x: 3396
+  y:-1853
+  velX: 18.530000
+  velY: 33.960000
+#add#
+type: normal
+  size: 83
+  x: 1791
+  y:-2907
+  velX: 29.070000
+  velY: 17.910000
+#add#
+type: normal
+  size: 124
+  x: 909
+  y:4106
+  velX: -41.060000
+  velY: 9.090000
+#add#
+type: normal
+  size: 76
+  x: 1685
+  y:653
+  velX: -6.530000
+  velY: 16.850000
+#add#
+type: normal
+  size: 285
+  x: -1572
+  y:1967
+  velX: -19.670000
+  velY: -15.720000
+#add#
+type: normal
+  size: 164
+  x: -912
+  y:-1772
+  velX: 17.720000
+  velY: -9.120000
+#add#
+type: normal
+  size: 76
+  x: 1881
+  y:-2203
+  velX: 22.030000
+  velY: 18.810000
+#add#
+type: normal
+  size: 182
+  x: -2211
+  y:2786
+  velX: -27.860000
+  velY: -22.110000
+#add#
+type: normal
+  size: 210
+  x: -125
+  y:-1762
+  velX: 17.620000
+  velY: -1.250000
+#add#
+type: normal
+  size: 77
+  x: 4380
+  y:268
+  velX: -2.680000
+  velY: 43.800000
+#add#
+type: normal
+  size: 158
+  x: -2911
+  y:-791
+  velX: 7.910000
+  velY: -29.110000
+#add#
+type: normal
+  size: 278
+  x: -1404
+  y:1241
+  velX: -12.410000
+  velY: -14.040000
+#add#
+type: normal
+  size: 258
+  x: -3276
+  y:-652
+  velX: 6.520000
+  velY: -32.760000
+#add#
+type: normal
+  size: 111
+  x: 2972
+  y:524
+  velX: -5.240000
+  velY: 29.720000
+#add#
+type: normal
+  size: 282
+  x: 2421
+  y:3612
+  velX: -36.120000
+  velY: 24.210000
+#add#
+type: normal
+  size: 102
+  x: 3209
+  y:-2211
+  velX: 22.110000
+  velY: 32.090000
+#add#
+type: normal
+  size: 232
+  x: -220
+  y:3140
+  velX: -31.400000
+  velY: -2.200000
+#add#
+type: normal
+  size: 109
+  x: -989
+  y:-1921
+  velX: 19.210000
+  velY: -9.890000
+#add#
+type: normal
+  size: 235
+  x: 2552
+  y:-3034
+  velX: 30.340000
+  velY: 25.520000
+#add#
+type: normal
+  size: 128
+  x: 1846
+  y:4029
+  velX: -40.290000
+  velY: 18.460000
+#add#
+type: normal
+  size: 272
+  x: 1486
+  y:1806
+  velX: -18.060000
+  velY: 14.860000
+#add#
+type: normal
+  size: 105
+  x: 2538
+  y:1088
+  velX: -10.880000
+  velY: 25.380000
+#add#
+type: normal
+  size: 289
+  x: -2340
+  y:1277
+  velX: -12.770000
+  velY: -23.400000
+#add#
+type: normal
+  size: 282
+  x: -2882
+  y:1988
+  velX: -19.880000
+  velY: -28.820000
+#add#
+type: normal
+  size: 299
+  x: 2678
+  y:405
+  velX: -4.050000
+  velY: 26.780000
+#add#
+type: normal
+  size: 161
+  x: 2015
+  y:-325
+  velX: 3.250000
+  velY: 20.150000
+#add#
+type: normal
+  size: 276
+  x: 1722
+  y:-1390
+  velX: 13.900000
+  velY: 17.220000
+#add#
+type: normal
+  size: 121
+  x: -2101
+  y:-1341
+  velX: 13.410000
+  velY: -21.010000
+#add#
+type: normal
+  size: 157
+  x: -2456
+  y:3476
+  velX: -34.760000
+  velY: -24.560000
+#add#
+type: normal
+  size: 189
+  x: 288
+  y:-2946
+  velX: 29.460000
+  velY: 2.880000
+#add#
+type: normal
+  size: 111
+  x: 2394
+  y:481
+  velX: -4.810000
+  velY: 23.940000
+#add#
+type: normal
+  size: 126
+  x: 1496
+  y:-3109
+  velX: 31.090000
+  velY: 14.960000
+#add#
+type: normal
+  size: 142
+  x: -2649
+  y:2042
+  velX: -20.420000
+  velY: -26.490000
+#add#
+type: normal
+  size: 212
+  x: 1016
+  y:2105
+  velX: -21.050000
+  velY: 10.160000
+#add#
+type: normal
+  size: 188
+  x: -4018
+  y:2019
+  velX: -20.190000
+  velY: -40.180000
+#add#
+type: normal
+  size: 44
+  x: -2677
+  y:-3027
+  velX: 30.270000
+  velY: -26.770000
+#add#
+type: normal
+  size: 27
+  x: -3871
+  y:1540
+  velX: -15.400000
+  velY: -38.710000
+#add#
+type: normal
+  size: 37
+  x: 2853
+  y:-2597
+  velX: 25.970000
+  velY: 28.530000
+#add#
+type: normal
+  size: 51
+  x: 1483
+  y:-2945
+  velX: 29.450000
+  velY: 14.830000
+#add#
+type: normal
+  size: 199
+  x: 2066
+  y:1902
+  velX: -19.020000
+  velY: 20.660000
+#add#
+type: normal
+  size: 227
+  x: -600
+  y:-1800
+  velX: 18.000000
+  velY: -6.000000
+#add#
+type: normal
+  size: 20
+  x: -1175
+  y:-2217
+  velX: 22.170000
+  velY: -11.750000
+#add#
+type: normal
+  size: 168
+  x: 1690
+  y:-1762
+  velX: 17.620000
+  velY: 16.900000
+#add#
+type: normal
+  size: 178
+  x: -227
+  y:3399
+  velX: -33.990000
+  velY: -2.270000
+#add#
+type: normal
+  size: 186
+  x: -2375
+  y:-1472
+  velX: 14.720000
+  velY: -23.750000
+#add#
+type: normal
+  size: 16
+  x: -1591
+  y:-615
+  velX: 6.150000
+  velY: -15.910000
+#add#
+type: normal
+  size: 133
+  x: -2171
+  y:2929
+  velX: -29.290000
+  velY: -21.710000
+#add#
+type: normal
+  size: 22
+  x: -1719
+  y:4103
+  velX: -41.030000
+  velY: -17.190000
+#add#
+type: normal
+  size: 172
+  x: 272
+  y:-3926
+  velX: 39.260000
+  velY: 2.720000
+#add#
+type: normal
+  size: 198
+  x: -253
+  y:-752
+  velX: 7.520000
+  velY: -2.530000
+#add#
+type: normal
+  size: 115
+  x: 875
+  y:-2973
+  velX: 29.730000
+  velY: 8.750000
+#add#
+type: normal
+  size: 15
+  x: -3836
+  y:1415
+  velX: -14.150000
+  velY: -38.360000
+#add#
+type: normal
+  size: 272
+  x: 3025
+  y:-2649
+  velX: 26.490000
+  velY: 30.250000
+#add#
+type: normal
+  size: 135
+  x: -1897
+  y:-3229
+  velX: 32.290000
+  velY: -18.970000
+#add#
+type: normal
+  size: 102
+  x: 1485
+  y:191
+  velX: -1.910000
+  velY: 14.850000
+#add#
+type: normal
+  size: 200
+  x: 539
+  y:-2923
+  velX: 29.230000
+  velY: 5.390000
+#add#
+type: normal
+  size: 278
+  x: -462
+  y:2941
+  velX: -29.410000
+  velY: -4.620000
+#add#
+type: normal
+  size: 113
+  x: -3291
+  y:-2012
+  velX: 20.120000
+  velY: -32.910000
+#add#
+type: normal
+  size: 169
+  x: -4296
+  y:-909
+  velX: 9.090000
+  velY: -42.960000
+#add#
+type: normal
+  size: 31
+  x: 1757
+  y:719
+  velX: -7.190000
+  velY: 17.570000
+#add#
+type: normal
+  size: 261
+  x: 3328
+  y:-71
+  velX: 0.710000
+  velY: 33.280000
+#add#
+type: normal
+  size: 115
+  x: 2100
+  y:-1831
+  velX: 18.310000
+  velY: 21.000000
+#add#
+type: normal
+  size: 296
+  x: -2001
+  y:-2372
+  velX: 23.720000
+  velY: -20.010000
+#add#
+type: normal
+  size: 9
+  x: 2442
+  y:1336
+  velX: -13.360000
+  velY: 24.420000
+#add#
+type: normal
+  size: 14
+  x: -1043
+  y:-2569
+  velX: 25.690000
+  velY: -10.430000
+#add#
+type: normal
+  size: 277
+  x: -745
+  y:-172
+  velX: 1.720000
+  velY: -7.450000
+#add#
+type: normal
+  size: 153
+  x: -67
+  y:2641
+  velX: -26.410000
+  velY: -0.670000
+#add#
+type: normal
+  size: 229
+  x: 1424
+  y:-1679
+  velX: 16.790000
+  velY: 14.240000
+#add#
+type: normal
+  size: 280
+  x: -2519
+  y:2202
+  velX: -22.020000
+  velY: -25.190000
+#add#
+type: normal
+  size: 243
+  x: 2280
+  y:-75
+  velX: 0.750000
+  velY: 22.800000
+#add#
+type: normal
+  size: 58
+  x: 3489
+  y:1719
+  velX: -17.190000
+  velY: 34.890000
+#add#
+type: normal
+  size: 279
+  x: 3621
+  y:945
+  velX: -9.450000
+  velY: 36.210000
+#add#
+type: normal
+  size: 113
+  x: 4152
+  y:297
+  velX: -2.970000
+  velY: 41.520000
+#add#
+type: normal
+  size: 39
+  x: 4296
+  y:79
+  velX: -0.790000
+  velY: 42.960000
+#add#
+type: normal
+  size: 72
+  x: -1457
+  y:-2131
+  velX: 21.310000
+  velY: -14.570000
+#add#
+type: normal
+  size: 190
+  x: 940
+  y:3658
+  velX: -36.580000
+  velY: 9.400000
+#add#
+type: normal
+  size: 9
+  x: 3273
+  y:-1573
+  velX: 15.730000
+  velY: 32.730000
+#add#
+type: normal
+  size: 272
+  x: 2979
+  y:-297
+  velX: 2.970000
+  velY: 29.790000
+#add#
+type: normal
+  size: 149
+  x: -526
+  y:1736
+  velX: -17.360000
+  velY: -5.260000
+#add#
+type: normal
+  size: 106
+  x: 1305
+  y:-3543
+  velX: 35.430000
+  velY: 13.050000
+#add#
+type: normal
+  size: 208
+  x: 594
+  y:2668
+  velX: -26.680000
+  velY: 5.940000
+#add#
+type: normal
+  size: 97
+  x: 1312
+  y:4146
+  velX: -41.460000
+  velY: 13.120000
+#add#
+type: normal
+  size: 102
+  x: 3848
+  y:-2283
+  velX: 22.830000
+  velY: 38.480000
+#add#
+type: normal
+  size: 189
+  x: -3018
+  y:2578
+  velX: -25.780000
+  velY: -30.180000
+#add#
+type: normal
+  size: 257
+  x: 3135
+  y:1946
+  velX: -19.460000
+  velY: 31.350000
+#add#
+type: normal
+  size: 163
+  x: -4027
+  y:-1675
+  velX: 16.750000
+  velY: -40.270000
+#add#
+type: normal
+  size: 289
+  x: 2478
+  y:202
+  velX: -2.020000
+  velY: 24.780000
+#add#
+type: normal
+  size: 218
+  x: 2740
+  y:448
+  velX: -4.480000
+  velY: 27.400000
+#add#
+type: normal
+  size: 237
+  x: -737
+  y:-2537
+  velX: 25.370000
+  velY: -7.370000
+#add#
+type: normal
+  size: 113
+  x: 2052
+  y:2343
+  velX: -23.430000
+  velY: 20.520000
+#add#
+type: normal
+  size: 71
+  x: 919
+  y:-1428
+  velX: 14.280000
+  velY: 9.190000
+#add#
+type: normal
+  size: 282
+  x: 318
+  y:-630
+  velX: 6.300000
+  velY: 3.180000
+#add#
+type: normal
+  size: 177
+  x: 2922
+  y:3070
+  velX: -30.700000
+  velY: 29.220000
+#add#
+type: normal
+  size: 266
+  x: -2646
+  y:-3093
+  velX: 30.930000
+  velY: -26.460000
+#add#
+type: normal
+  size: 74
+  x: -816
+  y:-1265
+  velX: 12.650000
+  velY: -8.160000
+#add#
+type: normal
+  size: 201
+  x: 2686
+  y:-2482
+  velX: 24.820000
+  velY: 26.860000
+#add#
+type: normal
+  size: 16
+  x: 140
+  y:-4126
+  velX: 41.260000
+  velY: 1.400000
+#add#
+type: normal
+  size: 135
+  x: 1628
+  y:-1407
+  velX: 14.070000
+  velY: 16.280000
+#add#
+type: normal
+  size: 102
+  x: 2811
+  y:-1411
+  velX: 14.110000
+  velY: 28.110000
+#add#
+type: normal
+  size: 189
+  x: -1562
+  y:640
+  velX: -6.400000
+  velY: -15.620000
+#add#
+type: normal
+  size: 31
+  x: -2570
+  y:-2376
+  velX: 23.760000
+  velY: -25.700000
+#add#
+type: normal
+  size: 296
+  x: 1052
+  y:492
+  velX: -4.920000
+  velY: 10.520000
+#add#
+type: normal
+  size: 203
+  x: -2799
+  y:541
+  velX: -5.410000
+  velY: -27.990000
+#add#
+type: normal
+  size: 118
+  x: 1857
+  y:2694
+  velX: -26.940000
+  velY: 18.570000
+#add#
+type: normal
+  size: 202
+  x: -1253
+  y:-699
+  velX: 6.990000
+  velY: -12.530000
+#add#
+type: normal
+  size: 176
+  x: -1940
+  y:-1135
+  velX: 11.350000
+  velY: -19.400000
+#add#
+type: normal
+  size: 74
+  x: 2021
+  y:-3356
+  velX: 33.560000
+  velY: 20.210000
+#add#
+type: normal
+  size: 262
+  x: 1589
+  y:-760
+  velX: 7.600000
+  velY: 15.890000
+#add#
+type: normal
+  size: 184
+  x: -1456
+  y:-4232
+  velX: 42.320000
+  velY: -14.560000
+#add#
+type: normal
+  size: 69
+  x: -2357
+  y:-2536
+  velX: 25.360000
+  velY: -23.570000
+#add#
+type: normal
+  size: 137
+  x: 1359
+  y:173
+  velX: -1.730000
+  velY: 13.590000
+#add#
+type: normal
+  size: 73
+  x: 2291
+  y:2062
+  velX: -20.620000
+  velY: 22.910000
+#add#
+type: normal
+  size: 223
+  x: 1681
+  y:-3522
+  velX: 35.220000
+  velY: 16.810000
+#add#
+type: normal
+  size: 124
+  x: -2647
+  y:-1391
+  velX: 13.910000
+  velY: -26.470000
+#add#
+type: normal
+  size: 212
+  x: -1389
+  y:-1961
+  velX: 19.610000
+  velY: -13.890000
+#add#
+type: normal
+  size: 132
+  x: -1602
+  y:1785
+  velX: -17.850000
+  velY: -16.020000
+#add#
+type: normal
+  size: 28
+  x: 648
+  y:2512
+  velX: -25.120000
+  velY: 6.480000
+#add#
+type: normal
+  size: 203
+  x: -705
+  y:2408
+  velX: -24.080000
+  velY: -7.050000
+#add#
+type: normal
+  size: 177
+  x: -1500
+  y:-2037
+  velX: 20.370000
+  velY: -15.000000
+#add#
+type: normal
+  size: 259
+  x: 961
+  y:-4127
+  velX: 41.270000
+  velY: 9.610000
+#add#
+type: normal
+  size: 57
+  x: 1083
+  y:3061
+  velX: -30.610000
+  velY: 10.830000
+#add#
+type: normal
+  size: 189
+  x: 1800
+  y:2882
+  velX: -28.820000
+  velY: 18.000000
+#add#
+type: normal
+  size: 155
+  x: -647
+  y:3607
+  velX: -36.070000
+  velY: -6.470000
+#add#
+type: normal
+  size: 179
+  x: 1318
+  y:2348
+  velX: -23.480000
+  velY: 13.180000
+#add#
+type: normal
+  size: 211
+  x: 2444
+  y:-3396
+  velX: 33.960000
+  velY: 24.440000
+#add#
+type: normal
+  size: 133
+  x: -1726
+  y:-4117
+  velX: 41.170000
+  velY: -17.260000
+#add#
+type: normal
+  size: 208
+  x: -3277
+  y:2382
+  velX: -23.820000
+  velY: -32.770000
+#add#
+type: normal
+  size: 33
+  x: -3044
+  y:-2478
+  velX: 24.780000
+  velY: -30.440000
+#add#
+type: normal
+  size: 67
+  x: 4058
+  y:1590
+  velX: -15.900000
+  velY: 40.580000
+#add#
+type: normal
+  size: 217
+  x: -618
+  y:-1456
+  velX: 14.560000
+  velY: -6.180000
+#add#
+type: normal
+  size: 86
+  x: -1842
+  y:1748
+  velX: -17.480000
+  velY: -18.420000
+#add#
+type: normal
+  size: 155
+  x: 1587
+  y:-2848
+  velX: 28.480000
+  velY: 15.870000
+#add#
+type: normal
+  size: 86
+  x: -963
+  y:-3807
+  velX: 38.070000
+  velY: -9.630000
+#add#
+type: normal
+  size: 42
+  x: 2104
+  y:893
+  velX: -8.930000
+  velY: 21.040000
+#add#
+type: normal
+  size: 245
+  x: 4067
+  y:-174
+  velX: 1.740000
+  velY: 40.670000
+#add#
+type: normal
+  size: 291
+  x: 577
+  y:-1603
+  velX: 16.030000
+  velY: 5.770000
+#add#
+type: normal
+  size: 9
+  x: 1621
+  y:-1447
+  velX: 14.470000
+  velY: 16.210000
+#add#
+type: normal
+  size: 187
+  x: -2136
+  y:2117
+  velX: -21.170000
+  velY: -21.360000
+#add#
+type: normal
+  size: 245
+  x: -35
+  y:1402
+  velX: -14.020000
+  velY: -0.350000
+#add#
+type: normal
+  size: 177
+  x: -2729
+  y:-2885
+  velX: 28.850000
+  velY: -27.290000
+#add#
+type: normal
+  size: 16
+  x: -3807
+  y:1952
+  velX: -19.520000
+  velY: -38.070000
+#add#
+type: normal
+  size: 211
+  x: 2226
+  y:-164
+  velX: 1.640000
+  velY: 22.260000
+#add#
+type: normal
+  size: 169
+  x: 3857
+  y:-1758
+  velX: 17.580000
+  velY: 38.570000
+#add#
+type: normal
+  size: 39
+  x: -555
+  y:-3759
+  velX: 37.590000
+  velY: -5.550000
+#add#
+type: normal
+  size: 34
+  x: 1271
+  y:-3907
+  velX: 39.070000
+  velY: 12.710000
+#add#
+type: normal
+  size: 222
+  x: -1058
+  y:2704
+  velX: -27.040000
+  velY: -10.580000
+#add#
+type: normal
+  size: 34
+  x: -1610
+  y:2321
+  velX: -23.210000
+  velY: -16.100000
+#add#
+type: normal
+  size: 65
+  x: 3403
+  y:-775
+  velX: 7.750000
+  velY: 34.030000
+#add#
+type: normal
+  size: 202
+  x: 1800
+  y:-3552
+  velX: 35.520000
+  velY: 18.000000
+#add#
+type: normal
+  size: 112
+  x: -3631
+  y:-1009
+  velX: 10.090000
+  velY: -36.310000
+#add#
+type: normal
+  size: 139
+  x: 2439
+  y:-1479
+  velX: 14.790000
+  velY: 24.390000
+#add#
+type: normal
+  size: 128
+  x: -3389
+  y:2691
+  velX: -26.910000
+  velY: -33.890000
+#add#
+type: normal
+  size: 8
+  x: 1793
+  y:-354
+  velX: 3.540000
+  velY: 17.930000
+#add#
+type: normal
+  size: 214
+  x: -4142
+  y:26
+  velX: -0.260000
+  velY: -41.420000
+#add#
+type: normal
+  size: 243
+  x: 1036
+  y:-2120
+  velX: 21.200000
+  velY: 10.360000
+#add#
+type: normal
+  size: 37
+  x: 1064
+  y:-2131
+  velX: 21.310000
+  velY: 10.640000
+#add#
+type: normal
+  size: 177
+  x: 25
+  y:-2904
+  velX: 29.040000
+  velY: 0.250000
+#add#
+type: normal
+  size: 119
+  x: -1676
+  y:-3820
+  velX: 38.200000
+  velY: -16.760000
+#add#
+type: normal
+  size: 76
+  x: 1609
+  y:164
+  velX: -1.640000
+  velY: 16.090000
+#add#
+type: normal
+  size: 43
+  x: 2493
+  y:226
+  velX: -2.260000
+  velY: 24.930000
+#add#
+type: normal
+  size: 63
+  x: -1447
+  y:-317
+  velX: 3.170000
+  velY: -14.470000
+#add#
+type: normal
+  size: 167
+  x: 2104
+  y:2706
+  velX: -27.060000
+  velY: 21.040000
+#add#
+type: normal
+  size: 60
+  x: 3800
+  y:-869
+  velX: 8.690000
+  velY: 38.000000
+#add#
+type: normal
+  size: 137
+  x: -322
+  y:-1032
+  velX: 10.320000
+  velY: -3.220000
+#add#
+type: normal
+  size: 213
+  x: -1466
+  y:-2389
+  velX: 23.890000
+  velY: -14.660000
+#add#
+type: normal
+  size: 149
+  x: -3333
+  y:558
+  velX: -5.580000
+  velY: -33.330000
+#add#
+type: normal
+  size: 87
+  x: 4027
+  y:1691
+  velX: -16.910000
+  velY: 40.270000
+#add#
+type: normal
+  size: 37
+  x: 2484
+  y:-1934
+  velX: 19.340000
+  velY: 24.840000
+#add#
+type: normal
+  size: 16
+  x: -1469
+  y:3802
+  velX: -38.020000
+  velY: -14.690000
+#add#
+type: normal
+  size: 114
+  x: -1827
+  y:2152
+  velX: -21.520000
+  velY: -18.270000
+#add#
+type: normal
+  size: 169
+  x: 2395
+  y:-1504
+  velX: 15.040000
+  velY: 23.950000
+#add#
+type: normal
+  size: 236
+  x: 2311
+  y:2730
+  velX: -27.300000
+  velY: 23.110000
+#add#
+type: normal
+  size: 144
+  x: 2358
+  y:-3485
+  velX: 34.850000
+  velY: 23.580000
+#add#
+type: normal
+  size: 189
+  x: 1651
+  y:-1840
+  velX: 18.400000
+  velY: 16.510000
+#add#
+type: normal
+  size: 79
+  x: -2902
+  y:371
+  velX: -3.710000
+  velY: -29.020000
+#add#
+type: normal
+  size: 260
+  x: -505
+  y:-4068
+  velX: 40.680000
+  velY: -5.050000
+#add#
+type: normal
+  size: 91
+  x: 2154
+  y:-105
+  velX: 1.050000
+  velY: 21.540000
+#add#
+type: normal
+  size: 44
+  x: -2727
+  y:1057
+  velX: -10.570000
+  velY: -27.270000
+#add#
+type: normal
+  size: 141
+  x: 1841
+  y:2741
+  velX: -27.410000
+  velY: 18.410000
+#add#
+type: normal
+  size: 209
+  x: -842
+  y:3613
+  velX: -36.130000
+  velY: -8.420000
+#add#
+type: normal
+  size: 241
+  x: 37
+  y:-1096
+  velX: 10.960000
+  velY: 0.370000
+#add#
+type: normal
+  size: 73
+  x: -2033
+  y:-329
+  velX: 3.290000
+  velY: -20.330000
+#add#
+type: normal
+  size: 73
+  x: 1887
+  y:-2713
+  velX: 27.130000
+  velY: 18.870000
+#add#
+type: normal
+  size: 130
+  x: 30
+  y:-2322
+  velX: 23.220000
+  velY: 0.300000
+#add#
+type: normal
+  size: 108
+  x: 1377
+  y:2079
+  velX: -20.790000
+  velY: 13.770000
+#add#
+type: normal
+  size: 71
+  x: 133
+  y:3435
+  velX: -34.350000
+  velY: 1.330000
+#add#
+type: normal
+  size: 116
+  x: 2702
+  y:1386
+  velX: -13.860000
+  velY: 27.020000
+#add#
+type: normal
+  size: 177
+  x: 864
+  y:-376
+  velX: 3.760000
+  velY: 8.640000
+#add#
+type: normal
+  size: 20
+  x: -584
+  y:-1320
+  velX: 13.200000
+  velY: -5.840000
+#add#
+type: normal
+  size: 210
+  x: -2088
+  y:3898
+  velX: -38.980000
+  velY: -20.880000
+#add#
+type: normal
+  size: 113
+  x: 2079
+  y:-1605
+  velX: 16.050000
+  velY: 20.790000
+#add#
+type: normal
+  size: 285
+  x: 4196
+  y:-1185
+  velX: 11.850000
+  velY: 41.960000
+#add#
+type: normal
+  size: 128
+  x: -3563
+  y:2391
+  velX: -23.910000
+  velY: -35.630000
+#add#
+type: normal
+  size: 262
+  x: -372
+  y:-2894
+  velX: 28.940000
+  velY: -3.720000
+#add#
+type: normal
+  size: 236
+  x: 855
+  y:1289
+  velX: -12.890000
+  velY: 8.550000
+#add#
+type: normal
+  size: 171
+  x: -3479
+  y:1718
+  velX: -17.180000
+  velY: -34.790000
+#add#
+type: normal
+  size: 227
+  x: -1589
+  y:-3866
+  velX: 38.660000
+  velY: -15.890000
+#add#
+type: normal
+  size: 209
+  x: -1122
+  y:-1318
+  velX: 13.180000
+  velY: -11.220000
+#add#
+type: normal
+  size: 34
+  x: -1716
+  y:-3091
+  velX: 30.910000
+  velY: -17.160000
+#add#
+type: normal
+  size: 230
+  x: -2478
+  y:1194
+  velX: -11.940000
+  velY: -24.780000
+#add#
+type: normal
+  size: 227
+  x: 2812
+  y:978
+  velX: -9.780000
+  velY: 28.120000
+#add#
+type: normal
+  size: 227
+  x: -1291
+  y:-1477
+  velX: 14.770000
+  velY: -12.910000
+#add#
+type: normal
+  size: 244
+  x: -192
+  y:1073
+  velX: -10.730000
+  velY: -1.920000
+#add#
+type: normal
+  size: 96
+  x: -2874
+  y:541
+  velX: -5.410000
+  velY: -28.740000
+#add#
+type: normal
+  size: 248
+  x: 1366
+  y:-3370
+  velX: 33.700000
+  velY: 13.660000
+#add#
+type: normal
+  size: 7
+  x: 2335
+  y:-1710
+  velX: 17.100000
+  velY: 23.350000
+#add#
+type: normal
+  size: 78
+  x: 1423
+  y:-1026
+  velX: 10.260000
+  velY: 14.230000
+#add#
+type: normal
+  size: 52
+  x: 697
+  y:-4344
+  velX: 43.440000
+  velY: 6.970000
+#add#
+type: normal
+  size: 17
+  x: 4024
+  y:-1813
+  velX: 18.130000
+  velY: 40.240000
+#add#
+type: normal
+  size: 292
+  x: -3442
+  y:405
+  velX: -4.050000
+  velY: -34.420000
+#add#
+type: normal
+  size: 229
+  x: -3017
+  y:-597
+  velX: 5.970000
+  velY: -30.170000
+#add#
+type: normal
+  size: 243
+  x: -4142
+  y:1516
+  velX: -15.160000
+  velY: -41.420000
+#add#
+type: normal
+  size: 8
+  x: -1562
+  y:-1335
+  velX: 13.350000
+  velY: -15.620000
+#add#
+type: normal
+  size: 183
+  x: 3767
+  y:-1805
+  velX: 18.050000
+  velY: 37.670000
+#add#
+type: normal
+  size: 16
+  x: -3900
+  y:-514
+  velX: 5.140000
+  velY: -39.000000
+#add#
+type: normal
+  size: 142
+  x: 918
+  y:-684
+  velX: 6.840000
+  velY: 9.180000
+#add#
+type: normal
+  size: 217
+  x: 1330
+  y:-2109
+  velX: 21.090000
+  velY: 13.300000
+#add#
+type: normal
+  size: 20
+  x: 768
+  y:887
+  velX: -8.870000
+  velY: 7.680000
+#add#
+type: normal
+  size: 42
+  x: 1021
+  y:-3941
+  velX: 39.410000
+  velY: 10.210000
+#add#
+type: normal
+  size: 67
+  x: -223
+  y:-1478
+  velX: 14.780000
+  velY: -2.230000
+#add#
+type: normal
+  size: 36
+  x: 4168
+  y:-1476
+  velX: 14.760000
+  velY: 41.680000
+#add#
+type: normal
+  size: 53
+  x: -537
+  y:4006
+  velX: -40.060000
+  velY: -5.370000
+#add#
+type: normal
+  size: 188
+  x: 1931
+  y:3225
+  velX: -32.250000
+  velY: 19.310000
+#add#
+type: normal
+  size: 298
+  x: 417
+  y:917
+  velX: -9.170000
+  velY: 4.170000
+#add#
+type: normal
+  size: 66
+  x: 3668
+  y:-1568
+  velX: 15.680000
+  velY: 36.680000
+#add#
+type: normal
+  size: 122
+  x: 1339
+  y:2402
+  velX: -24.020000
+  velY: 13.390000
+#add#
+type: normal
+  size: 283
+  x: 2016
+  y:3663
+  velX: -36.630000
+  velY: 20.160000
+#add#
+type: normal
+  size: 257
+  x: 2058
+  y:-3375
+  velX: 33.750000
+  velY: 20.580000
+#add#
+type: normal
+  size: 173
+  x: -302
+  y:-3871
+  velX: 38.710000
+  velY: -3.020000
+#add#
+type: normal
+  size: 126
+  x: 602
+  y:-914
+  velX: 9.140000
+  velY: 6.020000
+#add#
+type: normal
+  size: 33
+  x: 3765
+  y:-1325
+  velX: 13.250000
+  velY: 37.650000
+#add#
+type: normal
+  size: 270
+  x: 3244
+  y:2634
+  velX: -26.340000
+  velY: 32.440000
+#add#
+type: normal
+  size: 151
+  x: -973
+  y:3807
+  velX: -38.070000
+  velY: -9.730000
+#add#
+type: normal
+  size: 93
+  x: -572
+  y:3029
+  velX: -30.290000
+  velY: -5.720000
+#add#
+type: normal
+  size: 13
+  x: -631
+  y:-104
+  velX: 1.040000
+  velY: -6.310000
+#add#
+type: normal
+  size: 227
+  x: 718
+  y:1011
+  velX: -10.110000
+  velY: 7.180000
+#add#
+type: normal
+  size: 270
+  x: -1666
+  y:2557
+  velX: -25.570000
+  velY: -16.660000
+#add#
+type: normal
+  size: 132
+  x: 1857
+  y:-1466
+  velX: 14.660000
+  velY: 18.570000
+#add#
+type: normal
+  size: 264
+  x: 1493
+  y:2887
+  velX: -28.870000
+  velY: 14.930000
+#add#
+type: normal
+  size: 246
+  x: -4074
+  y:-1049
+  velX: 10.490000
+  velY: -40.740000
+#add#
+type: normal
+  size: 176
+  x: -1932
+  y:-957
+  velX: 9.570000
+  velY: -19.320000
+#add#
+type: normal
+  size: 236
+  x: -2002
+  y:3734
+  velX: -37.340000
+  velY: -20.020000
+#add#
+type: normal
+  size: 55
+  x: -1396
+  y:-71
+  velX: 0.710000
+  velY: -13.960000
+#add#
+type: normal
+  size: 26
+  x: 843
+  y:2448
+  velX: -24.480000
+  velY: 8.430000
+#add#
+type: normal
+  size: 198
+  x: -772
+  y:-1959
+  velX: 19.590000
+  velY: -7.720000
+#add#
+type: normal
+  size: 201
+  x: 1553
+  y:1772
+  velX: -17.720000
+  velY: 15.530000
+#add#
+type: normal
+  size: 14
+  x: 3104
+  y:-3226
+  velX: 32.260000
+  velY: 31.040000
+#add#
+type: normal
+  size: 95
+  x: 1223
+  y:-1783
+  velX: 17.830000
+  velY: 12.230000
+#add#
+type: normal
+  size: 221
+  x: -2580
+  y:-838
+  velX: 8.380000
+  velY: -25.800000
+#add#
+type: normal
+  size: 74
+  x: -2666
+  y:-3115
+  velX: 31.150000
+  velY: -26.660000
+#add#
+type: normal
+  size: 251
+  x: 2852
+  y:710
+  velX: -7.100000
+  velY: 28.520000
+#add#
+type: normal
+  size: 139
+  x: 3224
+  y:2674
+  velX: -26.740000
+  velY: 32.240000
+#add#
+type: normal
+  size: 273
+  x: 2801
+  y:375
+  velX: -3.750000
+  velY: 28.010000
+#add#
+type: normal
+  size: 264
+  x: -3426
+  y:1016
+  velX: -10.160000
+  velY: -34.260000
+#add#
+type: normal
+  size: 225
+  x: -350
+  y:-2721
+  velX: 27.210000
+  velY: -3.500000
+#add#
+type: normal
+  size: 113
+  x: 3365
+  y:-2587
+  velX: 25.870000
+  velY: 33.650000
+#add#
+type: normal
+  size: 65
+  x: 725
+  y:-2050
+  velX: 20.500000
+  velY: 7.250000
+#add#
+type: normal
+  size: 124
+  x: -3967
+  y:2079
+  velX: -20.790000
+  velY: -39.670000
+#add#
+type: normal
+  size: 283
+  x: -1533
+  y:-2984
+  velX: 29.840000
+  velY: -15.330000
+#add#
+type: normal
+  size: 214
+  x: -4140
+  y:313
+  velX: -3.130000
+  velY: -41.400000
+#add#
+type: normal
+  size: 56
+  x: 1964
+  y:3222
+  velX: -32.220000
+  velY: 19.640000
+#add#
+type: normal
+  size: 299
+  x: -895
+  y:-4221
+  velX: 42.210000
+  velY: -8.950000
+#add#
+type: normal
+  size: 141
+  x: -2221
+  y:721
+  velX: -7.210000
+  velY: -22.210000
+#add#
+type: normal
+  size: 57
+  x: 2110
+  y:981
+  velX: -9.810000
+  velY: 21.100000
+#add#
+type: normal
+  size: 162
+  x: -930
+  y:-2369
+  velX: 23.690000
+  velY: -9.300000
+#add#
+type: normal
+  size: 68
+  x: -2065
+  y:472
+  velX: -4.720000
+  velY: -20.650000
+#add#
+type: normal
+  size: 126
+  x: -1695
+  y:1944
+  velX: -19.440000
+  velY: -16.950000
+#add#
+type: normal
+  size: 241
+  x: -3252
+  y:2154
+  velX: -21.540000
+  velY: -32.520000
+#add#
+type: normal
+  size: 120
+  x: 682
+  y:-2838
+  velX: 28.380000
+  velY: 6.820000
+#add#
+type: normal
+  size: 9
+  x: 2835
+  y:930
+  velX: -9.300000
+  velY: 28.350000
+#add#
+type: normal
+  size: 190
+  x: -2572
+  y:1369
+  velX: -13.690000
+  velY: -25.720000
+#add#
+type: normal
+  size: 279
+  x: -3179
+  y:-45
+  velX: 0.450000
+  velY: -31.790000
+#add#
+type: normal
+  size: 167
+  x: 1779
+  y:-531
+  velX: 5.310000
+  velY: 17.790000
+#add#
+type: normal
+  size: 129
+  x: -3405
+  y:2450
+  velX: -24.500000
+  velY: -34.050000
+#add#
+type: normal
+  size: 81
+  x: 667
+  y:1896
+  velX: -18.960000
+  velY: 6.670000
+#add#
+type: normal
+  size: 91
+  x: 933
+  y:3008
+  velX: -30.080000
+  velY: 9.330000
+#add#
+type: normal
+  size: 174
+  x: -3681
+  y:-1181
+  velX: 11.810000
+  velY: -36.810000
+#add#
+type: normal
+  size: 271
+  x: 1040
+  y:-690
+  velX: 6.900000
+  velY: 10.400000
+#add#
+type: normal
+  size: 217
+  x: 1254
+  y:-741
+  velX: 7.410000
+  velY: 12.540000
+#add#
+type: normal
+  size: 129
+  x: -1283
+  y:-1284
+  velX: 12.840000
+  velY: -12.830000
+#add#
+type: normal
+  size: 247
+  x: 3700
+  y:2541
+  velX: -25.410000
+  velY: 37.000000
+#add#
+type: normal
+  size: 98
+  x: 2208
+  y:1313
+  velX: -13.130000
+  velY: 22.080000
+#add#
+type: normal
+  size: 96
+  x: 3382
+  y:-2854
+  velX: 28.540000
+  velY: 33.820000
+#add#
+type: normal
+  size: 218
+  x: -551
+  y:-1487
+  velX: 14.870000
+  velY: -5.510000
+#add#
+type: normal
+  size: 162
+  x: -2193
+  y:-2549
+  velX: 25.490000
+  velY: -21.930000
+#add#
+type: normal
+  size: 127
+  x: -523
+  y:-1359
+  velX: 13.590000
+  velY: -5.230000
+#add#
+type: normal
+  size: 245
+  x: 1435
+  y:-808
+  velX: 8.080000
+  velY: 14.350000
+#add#
+type: normal
+  size: 299
+  x: 4012
+  y:13
+  velX: -0.130000
+  velY: 40.120000
+#add#
+type: normal
+  size: 252
+  x: -699
+  y:-2060
+  velX: 20.600000
+  velY: -6.990000
+#add#
+type: normal
+  size: 163
+  x: -1958
+  y:-906
+  velX: 9.060000
+  velY: -19.580000
+#add#
+type: normal
+  size: 110
+  x: 1056
+  y:3200
+  velX: -32.000000
+  velY: 10.560000
+#add#
+type: normal
+  size: 161
+  x: -969
+  y:793
+  velX: -7.930000
+  velY: -9.690000
+#add#
+type: normal
+  size: 47
+  x: 3976
+  y:401
+  velX: -4.010000
+  velY: 39.760000
+#add#
+type: normal
+  size: 69
+  x: -619
+  y:3685
+  velX: -36.850000
+  velY: -6.190000
+#add#
+type: normal
+  size: 245
+  x: -1601
+  y:3941
+  velX: -39.410000
+  velY: -16.010000
+#add#
+type: normal
+  size: 46
+  x: 340
+  y:-2806
+  velX: 28.060000
+  velY: 3.400000
+#add#
+type: normal
+  size: 153
+  x: 1274
+  y:3255
+  velX: -32.550000
+  velY: 12.740000
+#add#
+type: normal
+  size: 42
+  x: 742
+  y:1804
+  velX: -18.040000
+  velY: 7.420000
+#add#
+type: normal
+  size: 190
+  x: -4248
+  y:-249
+  velX: 2.490000
+  velY: -42.480000
+#add#
+type: normal
+  size: 213
+  x: -371
+  y:-3584
+  velX: 35.840000
+  velY: -3.710000
+#add#
+type: normal
+  size: 100
+  x: -3448
+  y:683
+  velX: -6.830000
+  velY: -34.480000
+#add#
+type: normal
+  size: 256
+  x: 3157
+  y:621
+  velX: -6.210000
+  velY: 31.570000
+#add#
+type: normal
+  size: 167
+  x: 1941
+  y:3741
+  velX: -37.410000
+  velY: 19.410000
+#add#
+type: normal
+  size: 128
+  x: 3058
+  y:-2193
+  velX: 21.930000
+  velY: 30.580000
+#add#
+type: normal
+  size: 222
+  x: 3439
+  y:-2226
+  velX: 22.260000
+  velY: 34.390000
+#add#
+type: normal
+  size: 8
+  x: 3937
+  y:-48
+  velX: 0.480000
+  velY: 39.370000
+#add#
+type: normal
+  size: 14
+  x: -2993
+  y:-1116
+  velX: 11.160000
+  velY: -29.930000
+#add#
+type: normal
+  size: 57
+  x: 2541
+  y:-1737
+  velX: 17.370000
+  velY: 25.410000
+#add#
+type: normal
+  size: 240
+  x: 3710
+  y:1049
+  velX: -10.490000
+  velY: 37.100000
+#add#
+type: normal
+  size: 213
+  x: 1719
+  y:772
+  velX: -7.720000
+  velY: 17.190000
+#add#
+type: normal
+  size: 242
+  x: 3905
+  y:1
+  velX: -0.010000
+  velY: 39.050000
+#add#
+type: normal
+  size: 98
+  x: -1682
+  y:-3500
+  velX: 35.000000
+  velY: -16.820000
+#add#
+type: normal
+  size: 197
+  x: -776
+  y:-2275
+  velX: 22.750000
+  velY: -7.760000
+#add#
+type: normal
+  size: 11
+  x: 3662
+  y:1982
+  velX: -19.820000
+  velY: 36.620000
+#add#
+type: normal
+  size: 146
+  x: -2474
+  y:-3115
+  velX: 31.150000
+  velY: -24.740000
+#add#
+type: normal
+  size: 114
+  x: -2023
+  y:3282
+  velX: -32.820000
+  velY: -20.230000
+#add#
+type: normal
+  size: 288
+  x: 3037
+  y:-679
+  velX: 6.790000
+  velY: 30.370000
+#add#
+type: normal
+  size: 151
+  x: -2269
+  y:-527
+  velX: 5.270000
+  velY: -22.690000
+#add#
+type: normal
+  size: 240
+  x: -2700
+  y:822
+  velX: -8.220000
+  velY: -27.000000
+#add#
+type: normal
+  size: 12
+  x: -1951
+  y:-65
+  velX: 0.650000
+  velY: -19.510000
+#add#
+type: normal
+  size: 31
+  x: 1037
+  y:-1041
+  velX: 10.410000
+  velY: 10.370000
+#add#
+type: normal
+  size: 266
+  x: 1268
+  y:-750
+  velX: 7.500000
+  velY: 12.680000
+#add#
+type: normal
+  size: 72
+  x: -2707
+  y:-3151
+  velX: 31.510000
+  velY: -27.070000
+#add#
+type: normal
+  size: 7
+  x: 3820
+  y:456
+  velX: -4.560000
+  velY: 38.200000
+#add#
+type: normal
+  size: 283
+  x: 1047
+  y:-1069
+  velX: 10.690000
+  velY: 10.470000
+#add#
+type: normal
+  size: 81
+  x: 1954
+  y:3115
+  velX: -31.150000
+  velY: 19.540000
+#add#
+type: normal
+  size: 292
+  x: 1279
+  y:999
+  velX: -9.990000
+  velY: 12.790000
+#add#
+type: normal
+  size: 242
+  x: 1062
+  y:-4016
+  velX: 40.160000
+  velY: 10.620000
+#add#
+type: normal
+  size: 213
+  x: 2274
+  y:3290
+  velX: -32.900000
+  velY: 22.740000
+#add#
+type: normal
+  size: 136
+  x: -1677
+  y:1318
+  velX: -13.180000
+  velY: -16.770000
+#add#
+type: normal
+  size: 186
+  x: 3972
+  y:823
+  velX: -8.230000
+  velY: 39.720000
+#add#
+type: normal
+  size: 240
+  x: 104
+  y:3078
+  velX: -30.780000
+  velY: 1.040000
+#add#
+type: normal
+  size: 65
+  x: 1862
+  y:-274
+  velX: 2.740000
+  velY: 18.620000
+#add#
+type: normal
+  size: 222
+  x: -3135
+  y:2420
+  velX: -24.200000
+  velY: -31.350000
+#add#
+type: normal
+  size: 7
+  x: 2736
+  y:-1690
+  velX: 16.900000
+  velY: 27.360000
+#add#
+type: normal
+  size: 264
+  x: -3723
+  y:1928
+  velX: -19.280000
+  velY: -37.230000
+#add#
+type: normal
+  size: 156
+  x: 2042
+  y:-399
+  velX: 3.990000
+  velY: 20.420000
+#add#
+type: normal
+  size: 115
+  x: 1201
+  y:-1126
+  velX: 11.260000
+  velY: 12.010000
+#add#
+type: normal
+  size: 126
+  x: -2300
+  y:-1806
+  velX: 18.060000
+  velY: -23.000000
+#add#
+type: normal
+  size: 226
+  x: 2026
+  y:35
+  velX: -0.350000
+  velY: 20.260000
+#add#
+type: normal
+  size: 97
+  x: -1347
+  y:1839
+  velX: -18.390000
+  velY: -13.470000
+#add#
+type: normal
+  size: 194
+  x: 1168
+  y:2214
+  velX: -22.140000
+  velY: 11.680000
+#add#
+type: normal
+  size: 113
+  x: -4088
+  y:-24
+  velX: 0.240000
+  velY: -40.880000
+#add#
+type: normal
+  size: 58
+  x: -1255
+  y:3082
+  velX: -30.820000
+  velY: -12.550000
+#add#
+type: normal
+  size: 183
+  x: -1346
+  y:2162
+  velX: -21.620000
+  velY: -13.460000
+#add#
+type: normal
+  size: 163
+  x: 3803
+  y:62
+  velX: -0.620000
+  velY: 38.030000
+#add#
+type: normal
+  size: 75
+  x: 4189
+  y:-552
+  velX: 5.520000
+  velY: 41.890000
+#add#
+type: normal
+  size: 77
+  x: -1510
+  y:3808
+  velX: -38.080000
+  velY: -15.100000
+#add#
+type: normal
+  size: 7
+  x: 1282
+  y:-546
+  velX: 5.460000
+  velY: 12.820000
+#add#
+type: normal
+  size: 218
+  x: -3766
+  y:-691
+  velX: 6.910000
+  velY: -37.660000
+#add#
+type: normal
+  size: 35
+  x: 4272
+  y:1185
+  velX: -11.850000
+  velY: 42.720000
+#add#
+type: normal
+  size: 211
+  x: -349
+  y:-1648
+  velX: 16.480000
+  velY: -3.490000
+#add#
+type: normal
+  size: 274
+  x: 815
+  y:-3112
+  velX: 31.120000
+  velY: 8.150000
+#add#
+type: normal
+  size: 214
+  x: 2646
+  y:2643
+  velX: -26.430000
+  velY: 26.460000
+#add#
+type: normal
+  size: 113
+  x: 508
+  y:4388
+  velX: -43.880000
+  velY: 5.080000
+#add#
+type: normal
+  size: 24
+  x: -4334
+  y:602
+  velX: -6.020000
+  velY: -43.340000
+#add#
+type: normal
+  size: 291
+  x: -4474
+  y:49
+  velX: -0.490000
+  velY: -44.740000
+#add#
+type: normal
+  size: 282
+  x: 1708
+  y:2590
+  velX: -25.900000
+  velY: 17.080000
+#add#
+type: normal
+  size: 125
+  x: 3654
+  y:-1674
+  velX: 16.740000
+  velY: 36.540000
+#add#
+type: normal
+  size: 298
+  x: 3545
+  y:1544
+  velX: -15.440000
+  velY: 35.450000
+#add#
+type: normal
+  size: 238
+  x: -2586
+  y:2065
+  velX: -20.650000
+  velY: -25.860000
+#add#
+type: normal
+  size: 188
+  x: -1829
+  y:-1664
+  velX: 16.640000
+  velY: -18.290000
+#add#
+type: normal
+  size: 183
+  x: -3915
+  y:-2070
+  velX: 20.700000
+  velY: -39.150000
+#add#
+type: normal
+  size: 54
+  x: -2567
+  y:3550
+  velX: -35.500000
+  velY: -25.670000
+#add#
+type: normal
+  size: 287
+  x: 1759
+  y:903
+  velX: -9.030000
+  velY: 17.590000
+#add#
+type: normal
+  size: 192
+  x: 773
+  y:3561
+  velX: -35.610000
+  velY: 7.730000
+#add#
+type: normal
+  size: 58
+  x: 1353
+  y:-4216
+  velX: 42.160000
+  velY: 13.530000
+#add#
+type: normal
+  size: 280
+  x: -663
+  y:-2270
+  velX: 22.700000
+  velY: -6.630000
+#add#
+type: normal
+  size: 297
+  x: 1004
+  y:-1504
+  velX: 15.040000
+  velY: 10.040000
+#add#
+type: normal
+  size: 263
+  x: 1325
+  y:3527
+  velX: -35.270000
+  velY: 13.250000
+#add#
+type: normal
+  size: 114
+  x: -3497
+  y:-1826
+  velX: 18.260000
+  velY: -34.970000
+#add#
+type: normal
+  size: 278
+  x: -687
+  y:4359
+  velX: -43.590000
+  velY: -6.870000
+#add#
+type: normal
+  size: 150
+  x: 3722
+  y:-1240
+  velX: 12.400000
+  velY: 37.220000
+#add#
+type: normal
+  size: 251
+  x: -2782
+  y:909
+  velX: -9.090000
+  velY: -27.820000
+#add#
+type: normal
+  size: 70
+  x: -2428
+  y:317
+  velX: -3.170000
+  velY: -24.280000
+#add#
+type: normal
+  size: 300
+  x: 512
+  y:-4335
+  velX: 43.350000
+  velY: 5.120000
+#add#
+type: normal
+  size: 175
+  x: 1185
+  y:-3023
+  velX: 30.230000
+  velY: 11.850000
+#add#
+type: normal
+  size: 5
+  x: -691
+  y:-3518
+  velX: 35.180000
+  velY: -6.910000
+#add#
+type: normal
+  size: 12
+  x: 3292
+  y:-1878
+  velX: 18.780000
+  velY: 32.920000
+#add#
+type: normal
+  size: 217
+  x: 3646
+  y:2248
+  velX: -22.480000
+  velY: 36.460000
+#add#
+type: normal
+  size: 84
+  x: -1014
+  y:1323
+  velX: -13.230000
+  velY: -10.140000
+#add#
+type: normal
+  size: 235
+  x: 1793
+  y:-939
+  velX: 9.390000
+  velY: 17.930000
+#add#
+type: normal
+  size: 174
+  x: 1687
+  y:-2594
+  velX: 25.940000
+  velY: 16.870000
+#add#
+type: normal
+  size: 40
+  x: -3610
+  y:613
+  velX: -6.130000
+  velY: -36.100000
+#add#
+type: normal
+  size: 236
+  x: -1683
+  y:-366
+  velX: 3.660000
+  velY: -16.830000
+#add#
+type: normal
+  size: 120
+  x: -3002
+  y:627
+  velX: -6.270000
+  velY: -30.020000
+#add#
+type: normal
+  size: 29
+  x: -2780
+  y:-2441
+  velX: 24.410000
+  velY: -27.800000
+#add#
+type: normal
+  size: 49
+  x: -866
+  y:-2485
+  velX: 24.850000
+  velY: -8.660000
+#add#
+type: normal
+  size: 189
+  x: 499
+  y:2873
+  velX: -28.730000
+  velY: 4.990000
+#add#
+type: normal
+  size: 137
+  x: 1059
+  y:1685
+  velX: -16.850000
+  velY: 10.590000
+#add#
+type: normal
+  size: 144
+  x: 4302
+  y:-1233
+  velX: 12.330000
+  velY: 43.020000
+#add#
+type: normal
+  size: 162
+  x: 3302
+  y:1012
+  velX: -10.120000
+  velY: 33.020000
+#add#
+type: normal
+  size: 48
+  x: 1420
+  y:483
+  velX: -4.830000
+  velY: 14.200000
+#add#
+type: normal
+  size: 102
+  x: 1581
+  y:-2818
+  velX: 28.180000
+  velY: 15.810000
+#add#
+type: normal
+  size: 78
+  x: -2387
+  y:-718
+  velX: 7.180000
+  velY: -23.870000
+#add#
+type: normal
+  size: 293
+  x: 731
+  y:450
+  velX: -4.500000
+  velY: 7.310000
+#add#
+type: normal
+  size: 270
+  x: 1195
+  y:-1319
+  velX: 13.190000
+  velY: 11.950000
+#add#
+type: normal
+  size: 277
+  x: 376
+  y:-3646
+  velX: 36.460000
+  velY: 3.760000
+#add#
+type: normal
+  size: 256
+  x: 636
+  y:561
+  velX: -5.610000
+  velY: 6.360000
+#add#
+type: normal
+  size: 10
+  x: -1676
+  y:3439
+  velX: -34.390000
+  velY: -16.760000
+#add#
+type: normal
+  size: 135
+  x: 2697
+  y:579
+  velX: -5.790000
+  velY: 26.970000
+#add#
+type: normal
+  size: 107
+  x: -3636
+  y:1388
+  velX: -13.880000
+  velY: -36.360000
+#add#
+type: normal
+  size: 290
+  x: -2436
+  y:518
+  velX: -5.180000
+  velY: -24.360000
+#add#
+type: normal
+  size: 29
+  x: -2282
+  y:-1782
+  velX: 17.820000
+  velY: -22.820000
+#add#
+type: normal
+  size: 300
+  x: 2552
+  y:-2897
+  velX: 28.970000
+  velY: 25.520000
+#add#
+type: normal
+  size: 153
+  x: 3558
+  y:2743
+  velX: -27.430000
+  velY: 35.580000
+#add#
+type: normal
+  size: 90
+  x: 893
+  y:3639
+  velX: -36.390000
+  velY: 8.930000
+#add#
+type: normal
+  size: 146
+  x: -1255
+  y:1475
+  velX: -14.750000
+  velY: -12.550000
+#add#
+type: normal
+  size: 227
+  x: -2569
+  y:2002
+  velX: -20.020000
+  velY: -25.690000
+#add#
+type: normal
+  size: 120
+  x: -2459
+  y:-1444
+  velX: 14.440000
+  velY: -24.590000
+#add#
+type: normal
+  size: 144
+  x: -3163
+  y:-3030
+  velX: 30.300000
+  velY: -31.630000
+#add#
+type: normal
+  size: 44
+  x: 846
+  y:3288
+  velX: -32.880000
+  velY: 8.460000
+#add#
+type: normal
+  size: 49
+  x: 755
+  y:-3448
+  velX: 34.480000
+  velY: 7.550000
+#add#
+type: normal
+  size: 129
+  x: -537
+  y:2013
+  velX: -20.130000
+  velY: -5.370000
+#add#
+type: normal
+  size: 299
+  x: 1918
+  y:-1907
+  velX: 19.070000
+  velY: 19.180000
+#add#
+type: normal
+  size: 124
+  x: 1464
+  y:-3708
+  velX: 37.080000
+  velY: 14.640000
+#add#
+type: normal
+  size: 207
+  x: 172
+  y:1092
+  velX: -10.920000
+  velY: 1.720000
+#add#
+type: normal
+  size: 202
+  x: -1772
+  y:-3754
+  velX: 37.540000
+  velY: -17.720000
+#add#
+type: normal
+  size: 106
+  x: -913
+  y:-3830
+  velX: 38.300000
+  velY: -9.130000
+#add#
+type: normal
+  size: 145
+  x: 494
+  y:-1743
+  velX: 17.430000
+  velY: 4.940000
+#add#
+type: normal
+  size: 281
+  x: -3080
+  y:2916
+  velX: -29.160000
+  velY: -30.800000
+#add#
+type: normal
+  size: 106
+  x: 189
+  y:3028
+  velX: -30.280000
+  velY: 1.890000
+#add#
+type: normal
+  size: 182
+  x: -2485
+  y:1644
+  velX: -16.440000
+  velY: -24.850000
+#add#
+type: normal
+  size: 199
+  x: 3624
+  y:91
+  velX: -0.910000
+  velY: 36.240000
+#add#
+type: normal
+  size: 247
+  x: -2150
+  y:-3525
+  velX: 35.250000
+  velY: -21.500000
+#add#
+type: normal
+  size: 20
+  x: -3894
+  y:-996
+  velX: 9.960000
+  velY: -38.940000
+#add#
+type: normal
+  size: 93
+  x: -2140
+  y:-3052
+  velX: 30.520000
+  velY: -21.400000
+#add#
+type: normal
+  size: 145
+  x: -2891
+  y:-941
+  velX: 9.410000
+  velY: -28.910000
+#add#
+type: normal
+  size: 85
+  x: 437
+  y:929
+  velX: -9.290000
+  velY: 4.370000
+#add#
+type: normal
+  size: 150
+  x: -464
+  y:2119
+  velX: -21.190000
+  velY: -4.640000
+#add#
+type: normal
+  size: 292
+  x: -476
+  y:-766
+  velX: 7.660000
+  velY: -4.760000
+#add#
+type: normal
+  size: 248
+  x: 1565
+  y:-3461
+  velX: 34.610000
+  velY: 15.650000
+#add#
+type: normal
+  size: 48
+  x: -360
+  y:-3430
+  velX: 34.300000
+  velY: -3.600000
+#add#
+type: normal
+  size: 22
+  x: -2099
+  y:3948
+  velX: -39.480000
+  velY: -20.990000
+#add#

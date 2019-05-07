@@ -1,0 +1,30 @@
+
+type: controlled
+    size: 40
+    x: 0
+    y: 0
+#add#
+
+type: normal
+    size: 10
+    x: 480
+    y: 0
+#add#
+
+type: normal
+    size: 10
+    x: -480
+    y: 0
+#add#
+
+type: normal
+    size: 10
+    x: 0
+    y: 480
+#add#
+
+type: normal
+    size: 10
+    x: 0
+    y: -480
+#add#
